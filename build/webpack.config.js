@@ -16,7 +16,7 @@ module.exports ={
 			exclude:/node_modules/
 		}]
 	},
-	devtool: process.env.NODE_ENV === 'production' ? false : 'inline-source-maop',
+	devtool: process.env.NODE_ENV === 'production' ? false : 'inline-source-map',
 	devServer:{
 		contentBase: './dist',
 		stats: 'errors-only',
