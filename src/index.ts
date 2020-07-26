@@ -1,2 +1,2 @@
-let num: number = 123;
-document.title = 'leon';
+// import './example/basic-type.ts';
+import './example/symbol';

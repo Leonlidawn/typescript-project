@@ -20,7 +20,7 @@ x + 1 //> 35 in es6 but results error in typescript
 let bool: boolean = false;
 
 //Number
-let number: number = 123;
+let num: number = 123;
 // binary number
 num = 0b1111011;
 // Octal number
